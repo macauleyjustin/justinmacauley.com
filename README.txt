@@ -4,7 +4,7 @@ Open index.html in a browser, or upload it to the root of your website. Everythi
 
 The website links to:
 Email: justin@justinmacauley.com
-X: https://x.com/officialmacaulj
+X: https://x.com/macauljofficial
 Pleiades Watchtower Initiative: https://www.pleiadeswatchtower.org
 
 Visual theme: near-black, wine/crimson, cream, celestial blue, hanging crystals, seven-star motif, rounded profile window and portrait frame.
